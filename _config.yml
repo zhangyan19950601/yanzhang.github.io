@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "https://raw.githubusercontent.com/zhangyan19950601/yanzhang.github.io/refs/heads/master/images/bio-photo-2.jpg"
+  avatar           : "https://raw.githubusercontent.com/zhangyan19950601/yanzhang.github.io/refs/heads/master/images/张艳.jpg"
   name             : "Yan Zhang"
   pronouns         : # example: "she/her"  
   bio              : "张艳的个人主页"
