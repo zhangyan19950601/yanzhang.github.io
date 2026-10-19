@@ -19,6 +19,14 @@ News
 
 - **October 2026** — I presented our work on human–robot synchronization control for wearable respiratory robots at the **7th China Conference on Intelligent Robotics (CCF CIRAC 2026)** in Tianjin, China. The presentation focused on predictive respiratory-phase estimation and proactive assistance to reduce timing mismatch between the robot and natural breathing, supporting synchronized assistance under natural breathing variability.
 
+<p align="center">
+  <img src="/images/news/ccf-cirac-2026-talk.webp" alt="Yan Zhang presenting at the 7th CCF China Conference on Intelligent Robotics" width="400">
+</p>
+
+<p align="center">
+  <em>Presenting our work on human–robot synchronization control for wearable respiratory robots at CCF CIRAC 2026.</em>
+</p>
+
 
 A data-driven personal website
 ======
