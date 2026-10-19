@@ -14,6 +14,12 @@ I obtained my Ph.D. in Mechatronic Engineering （机械电子工程）from Beih
 Please feel free to contact me via email at 773572772@qq.com if you are interested in my research.
 
 
+News
+======
+
+- **October 2026** — I presented our work on human–robot synchronization control for wearable respiratory robots at the **7th China Conference on Intelligent Robotics (CCF CIRAC 2026)** in Tianjin, China. The presentation focused on predictive respiratory-phase estimation and proactive assistance to reduce timing mismatch between the robot and natural breathing, supporting synchronized assistance under natural breathing variability.
+
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
